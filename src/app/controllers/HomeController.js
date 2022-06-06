@@ -1,4 +1,4 @@
-import res from 'express/lib/response';
+
 
 class HomeController {
   index(req, res) {
